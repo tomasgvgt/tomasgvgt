@@ -17,9 +17,8 @@ I love writing software as a tool to experiment, apply creativity, and build inn
 
 ### 📊 GitHub Stats
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=tomasgvgt&show_icons=true)](https://github.com/tomasgvgt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgvgt&layout=compact&show_icons=true)](https://github.com/tomasgvgt)ˇ
 
 
-### 📫 How to reach me: https://www.linkedin.com/in/tomasgomezvelez/
+##### 📫 How to reach me: https://www.linkedin.com/in/tomasgomezvelez/
  </div>
