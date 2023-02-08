@@ -9,16 +9,16 @@ I love writing software as a tool to experiment, apply creativity, and build inn
 
 ### 🚀Featured Projects
 
-[![Qafa](https://github-readme-stats.vercel.app/api/pin/?username=samvvw&repo=coffee-connect&show_owner=true&show_icons=true&theme=gruvbox)](https://github.com/samvvw/coffee-connect)
-[![Shelff App - Client](https://github-readme-stats.vercel.app/api/pin/?username=samvvw&repo=shelff-app&show_owner=true&show_icons=true&theme=gruvbox)](https://github.com/samvvw/shelff-app)
-[![Shelff App - Server](https://github-readme-stats.vercel.app/api/pin/?username=samvvw&repo=shelff-server&show_owner=true&show_icons=true&theme=gruvbox)](https://github.com/samvvw/shelff-server)
-[![Moving Tracker](https://github-readme-stats.vercel.app/api/pin/?username=jharteaga&repo=moving-tracker-pwa&show_owner=true&show_icons=true&theme=gruvbox)](https://github.com/jharteaga/moving-tracker-pwa)
+[![Qafa](https://github-readme-stats.vercel.app/api/pin/?username=samvvw&repo=coffee-connect&show_owner=true&show_icons=true)](https://github.com/samvvw/coffee-connect)
+[![Shelff App - Client](https://github-readme-stats.vercel.app/api/pin/?username=samvvw&repo=shelff-app&show_owner=true&show_icons=true)](https://github.com/samvvw/shelff-app)
+[![Shelff App - Server](https://github-readme-stats.vercel.app/api/pin/?username=samvvw&repo=shelff-server&show_owner=true&show_icons=true)](https://github.com/samvvw/shelff-server)
+[![Moving Tracker](https://github-readme-stats.vercel.app/api/pin/?username=jharteaga&repo=moving-tracker-pwa&show_owner=true&show_icons=true)](https://github.com/jharteaga/moving-tracker-pwa)
 
 
 ### 📊 GitHub Stats
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=tomasgvgt&show_icons=true)](https://github.com/tomasgvgt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgvgt&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/tomasgvgt)ˇ
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgvgt&layout=compact&show_icons=true)](https://github.com/tomasgvgt)ˇ
 
 
 ### 📫 How to reach me: https://www.linkedin.com/in/tomasgomezvelez/
