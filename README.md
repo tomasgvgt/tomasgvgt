@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hello I'm Tomas 👋
 #### Backend Software Engineer
 
@@ -18,6 +20,5 @@ I love writing software as a tool to experiment, apply creativity, and build inn
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgvgt&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/tomasgvgt)ˇ
 
 
-
-
 ### 📫 How to reach me: https://www.linkedin.com/in/tomasgomezvelez/
+ </div>
