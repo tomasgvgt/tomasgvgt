@@ -2,6 +2,7 @@
 
 ### Hello I'm Tomas 👋
 #### Backend Software Engineer
+ 
 
 Im a Self-motivated learner driven by the desire to continually gain new knowledge and experience, improve my skills and use what I learn to solve problems and teach others. 
 I love writing software as a tool to experiment, apply creativity, and build innovative solutions while having fun.
@@ -16,7 +17,7 @@ I love writing software as a tool to experiment, apply creativity, and build inn
 
 ### 📊 GitHub Stats
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=tomasgvgt&show_icons=true&theme=gruvbox)](https://github.com/tomasgvgt)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=tomasgvgt&show_icons=true)](https://github.com/tomasgvgt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgvgt&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/tomasgvgt)ˇ
 
 
