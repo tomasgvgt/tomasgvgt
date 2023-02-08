@@ -15,12 +15,11 @@ I love writing software as a tool to experiment, apply creativity, and build inn
 [![Moving Tracker](https://github-readme-stats.vercel.app/api/pin/?username=jharteaga&repo=moving-tracker-pwa&show_owner=true&show_icons=true)](https://github.com/jharteaga/moving-tracker-pwa)
 
 
-<p align="center">
+<p align="center"> </p>
 ### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgvgt&layout=compact&show_icons=true)](https://github.com/tomasgvgt)
  
- </p>
 
 
 ##### 📫 How to reach me: https://www.linkedin.com/in/tomasgomezvelez/
