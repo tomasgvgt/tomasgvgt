@@ -11,7 +11,7 @@ I love writing software as a tool to experiment, apply creativity, and build inn
 ##
 ### Github Stats
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgvgt&show_icons=true)](https://github.com/tomasgvgt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgvgt&show_icons=true&langs_count=8)](https://github.com/tomasgvgt)
  
 
 ##
